@@ -1,0 +1,35 @@
+D:\work\piHIRE\PiHire.o\PiHire.BAL\bin\Debug\net7.0\PiHire.BAL.deps.json
+D:\work\piHIRE\PiHire.o\PiHire.BAL\bin\Debug\net7.0\PiHire.BAL.dll
+D:\work\piHIRE\PiHire.o\PiHire.BAL\bin\Debug\net7.0\PiHire.BAL.pdb
+D:\work\piHIRE\PiHire.o\PiHire.BAL\bin\Debug\net7.0\PiHire.DAL.dll
+D:\work\piHIRE\PiHire.o\PiHire.BAL\bin\Debug\net7.0\PiHire.Utilities.dll
+D:\work\piHIRE\PiHire.o\PiHire.BAL\bin\Debug\net7.0\PiHire.DAL.pdb
+D:\work\piHIRE\PiHire.o\PiHire.BAL\bin\Debug\net7.0\PiHire.Utilities.pdb
+D:\work\piHIRE\PiHire.o\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.csproj.AssemblyReference.cache
+D:\work\piHIRE\PiHire.o\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\piHIRE\PiHire.o\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.AssemblyInfoInputs.cache
+D:\work\piHIRE\PiHire.o\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.AssemblyInfo.cs
+D:\work\piHIRE\PiHire.o\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.csproj.CoreCompileInputs.cache
+D:\work\piHIRE\PiHire.o\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.csproj.CopyComplete
+D:\work\piHIRE\PiHire.o\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.dll
+D:\work\piHIRE\PiHire.o\PiHire.BAL\obj\Debug\net7.0\refint\PiHire.BAL.dll
+D:\work\piHIRE\PiHire.o\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.pdb
+D:\work\piHIRE\PiHire.o\PiHire.BAL\obj\Debug\net7.0\ref\PiHire.BAL.dll
+D:\work\piHIRE\PiHire.o\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.sourcelink.json
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\bin\Debug\net7.0\PiHire.BAL.deps.json
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\bin\Debug\net7.0\PiHire.BAL.dll
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\bin\Debug\net7.0\PiHire.BAL.pdb
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\bin\Debug\net7.0\PiHire.DAL.dll
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\bin\Debug\net7.0\PiHire.Utilities.dll
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\bin\Debug\net7.0\PiHire.DAL.pdb
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\bin\Debug\net7.0\PiHire.Utilities.pdb
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.csproj.AssemblyReference.cache
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.AssemblyInfoInputs.cache
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.AssemblyInfo.cs
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.csproj.CoreCompileInputs.cache
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.csproj.CopyComplete
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.dll
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\obj\Debug\net7.0\refint\PiHire.BAL.dll
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\obj\Debug\net7.0\PiHire.BAL.pdb
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.BAL\obj\Debug\net7.0\ref\PiHire.BAL.dll

@@ -1,0 +1,29 @@
+D:\work\piHIRE\PiHire.o\PiHire.DAL\bin\Debug\net7.0\PiHire.DAL.deps.json
+D:\work\piHIRE\PiHire.o\PiHire.DAL\bin\Debug\net7.0\PiHire.DAL.runtimeconfig.json
+D:\work\piHIRE\PiHire.o\PiHire.DAL\bin\Debug\net7.0\PiHire.DAL.dll
+D:\work\piHIRE\PiHire.o\PiHire.DAL\bin\Debug\net7.0\PiHire.DAL.pdb
+D:\work\piHIRE\PiHire.o\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.csproj.AssemblyReference.cache
+D:\work\piHIRE\PiHire.o\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\piHIRE\PiHire.o\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.AssemblyInfoInputs.cache
+D:\work\piHIRE\PiHire.o\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.AssemblyInfo.cs
+D:\work\piHIRE\PiHire.o\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.csproj.CoreCompileInputs.cache
+D:\work\piHIRE\PiHire.o\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.dll
+D:\work\piHIRE\PiHire.o\PiHire.DAL\obj\Debug\net7.0\refint\PiHire.DAL.dll
+D:\work\piHIRE\PiHire.o\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.pdb
+D:\work\piHIRE\PiHire.o\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.genruntimeconfig.cache
+D:\work\piHIRE\PiHire.o\PiHire.DAL\obj\Debug\net7.0\ref\PiHire.DAL.dll
+D:\work\piHIRE\PiHire.o\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.sourcelink.json
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\bin\Debug\net7.0\PiHire.DAL.deps.json
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\bin\Debug\net7.0\PiHire.DAL.runtimeconfig.json
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\bin\Debug\net7.0\PiHire.DAL.dll
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\bin\Debug\net7.0\PiHire.DAL.pdb
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.csproj.AssemblyReference.cache
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.AssemblyInfoInputs.cache
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.AssemblyInfo.cs
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.csproj.CoreCompileInputs.cache
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.dll
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\obj\Debug\net7.0\refint\PiHire.DAL.dll
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.pdb
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\obj\Debug\net7.0\PiHire.DAL.genruntimeconfig.cache
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.DAL\obj\Debug\net7.0\ref\PiHire.DAL.dll

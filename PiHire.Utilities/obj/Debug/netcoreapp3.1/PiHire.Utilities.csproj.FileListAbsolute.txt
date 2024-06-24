@@ -1,0 +1,21 @@
+D:\work\piHIRE\PiHire.o\PiHire.Utilities\bin\Debug\netcoreapp3.1\PiHire.Utilities.deps.json
+D:\work\piHIRE\PiHire.o\PiHire.Utilities\bin\Debug\netcoreapp3.1\PiHire.Utilities.dll
+D:\work\piHIRE\PiHire.o\PiHire.Utilities\bin\Debug\netcoreapp3.1\PiHire.Utilities.pdb
+D:\work\piHIRE\PiHire.o\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.csproj.AssemblyReference.cache
+D:\work\piHIRE\PiHire.o\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\piHIRE\PiHire.o\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.AssemblyInfoInputs.cache
+D:\work\piHIRE\PiHire.o\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.AssemblyInfo.cs
+D:\work\piHIRE\PiHire.o\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.csproj.CoreCompileInputs.cache
+D:\work\piHIRE\PiHire.o\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.dll
+D:\work\piHIRE\PiHire.o\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.pdb
+D:\work\piHIRE\PiHire.o\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.sourcelink.json
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.Utilities\bin\Debug\netcoreapp3.1\PiHire.Utilities.deps.json
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.Utilities\bin\Debug\netcoreapp3.1\PiHire.Utilities.dll
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.Utilities\bin\Debug\netcoreapp3.1\PiHire.Utilities.pdb
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.csproj.AssemblyReference.cache
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.AssemblyInfoInputs.cache
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.AssemblyInfo.cs
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.csproj.CoreCompileInputs.cache
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.dll
+D:\newfolder\PiHire.o\COMMON FILES\PiHire.Utilities\obj\Debug\netcoreapp3.1\PiHire.Utilities.pdb
